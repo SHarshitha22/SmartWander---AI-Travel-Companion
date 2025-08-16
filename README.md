@@ -35,12 +35,18 @@ Landing page with feature highlights.
 
 # TECH STACK
 Frontend/UI: Streamlit + Custom CSS
+
 Backend Logic: Python
+
 Database: MongoDB (PyMongo)
+
 AI & NLP: Cohere API
+
 APIs Integrated: OpenWeather (Weather Forecasts) and Google Places API (Restaurants & Stays)
 
 # Other Tools:
 bcrypt (User Authentication)
+
 gTTS (Text to Speech)
+
 Folium + Streamlit-Folium (Interactive Maps)
